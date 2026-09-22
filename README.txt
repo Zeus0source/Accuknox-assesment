@@ -28,3 +28,9 @@ Additional Work
 
 Most complex Python code:[HyRAG](https://github.com/Zeus0source/hyrag) — a hybrid-search Retrieval Augmented Generation system combining semantic vector search (ChromaDB) with BM25 keyword search over RBI financial regulatory documents, built from first principles without high-level RAG frameworks.
 Most complex database code: [HyRAG's ingestion pipeline](https://github.com/Zeus0source/hyrag/blob/main/ingest.py) — PDF chunking, embedding generation, and vector database storage using ChromaDB.
+
+ References:
+https://www.mockaroo.com/  : For mock data generation
+https://sqlite.org/ , https://www.geeksforgeeks.org/ : For syntax references sqlite and python
+https://viewjson.online/datasets/student-scores : For sample json
+https://openlibrary.org/developers/api : Api for books 
